@@ -1,5 +1,5 @@
 {
-  "name" : "publish",
+  "name" : "arbitrary",
   "type" : "build",
   "build_in" : "github",
   "clear_build_path" : true,
