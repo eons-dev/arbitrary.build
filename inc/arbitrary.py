@@ -4,7 +4,7 @@ from ebbs import Builder
 from ebbs import OtherBuildError
 
 class arbitrary(Builder):
-    def __init__(this, name="Publisher"):
+    def __init__(this, name="Arbitrary"):
         super().__init__(name)
 
         this.requiredKWArgs.append("commands")
